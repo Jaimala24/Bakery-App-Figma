@@ -28,6 +28,12 @@ Unsplash – Food photography
 
 Font Sources – Google Fonts & custom font integration
 
+## 📸 Screenshots
+
+![Frame 7](https://github.com/user-attachments/assets/3130297e-bace-49f0-8be0-27aedba1d2fa)
+![iPhone 8 - 2](https://github.com/user-attachments/assets/ac819ad1-9076-4542-8cfd-b17555e531ae)
+![iPhone 8 - 3](https://github.com/user-attachments/assets/c33b6fd8-ca89-4812-818f-cd826b22fc2e)
+
 ## 🔗 Figma File
 
 https://www.figma.com/proto/1HHYoY5lDILgONpHcrgLBs?node-id=0-1&t=ePBwtGKxMCYT3h8Y-6
